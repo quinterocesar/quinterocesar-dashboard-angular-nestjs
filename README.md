@@ -18,12 +18,19 @@ Docker
 
 ## 🎯 Main Features
 ✅ User registration and login
+
 ✅ Income, expense, and savings visualization
+
 ✅ Transaction logging with custom categories
+
 ✅ Monthly and yearly charts
+
 ✅ Filter by date and transaction type
+
 ✅ User dashboard and profile
+
 ✅ Admin panel with user management (optional)
+
 
 ## 📷 Screenshots
 
