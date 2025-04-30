@@ -2,19 +2,19 @@
 This project is a complete personal finance management system, developed with Angular for the frontend and NestJS for the backend. It allows users to manage income, expenses, debts, and savings with interactive charts, authentication, and customizable categorization.
 
 ## 🚀 Technologies Used
-Frontend (Angular)
-Angular 18
-Angular Material
-Reactive Forms
-Chart.js
-RxJS
-JWT Authentication
-Backend (NestJS)
-NestJS 10+
-PostgreSQL (TypeORM or Prisma)
-Passport + JWT
-Swagger
-Docker
+- Frontend (Angular)
+- Angular 18
+- Angular Material
+- Reactive Forms
+- Chart.js
+- RxJS
+- JWT Authentication
+- Backend (NestJS)
+- NestJS 10+
+- PostgreSQL (TypeORM or Prisma)
+- Passport + JWT
+- Swagger
+- Docker
 
 ## 🎯 Main Features
 ✅ User registration and login
